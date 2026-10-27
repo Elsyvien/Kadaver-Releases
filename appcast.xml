@@ -3,6 +3,35 @@
     <channel>
         <title>Kadaver</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Tue, 27 Oct 2026 20:20:51 +0100</pubDate>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:version>292</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Kadaver 0.7.0</h3><ul>
+<li>Codename „Cortex“ (Beta) — Themenblock Lernen und Prüfung</li>
+<li>Prüfung: native Multiple-Choice-Auswahl beim Benennen mit eigener Formatwahl, Fragen ohne Wiederholung, Größe und Zeitlimit in den Einstellungen</li>
+<li>Prüfung ohne Maus bedienbar und über Neustarts fortsetzbar; Antworten werden dauerhaft gebucht und synchronisiert</li>
+<li>Prüfungsverlauf zeigt Ergebnisse und öffnet Lösungen im Atlas</li>
+<li>Wiederholungen im Kalenderplan mit „Nur fällige“, Tageslimit und Mitternachtsfortschritt</li>
+<li>Suche über den ganzen Atlas mit Rückschritt im Verlauf; Antwortsprache folgt der Frage; Vorlesen mit Systemstimme</li>
+<li>Gespeicherte Ansichten: versioniert, eigener Dokumenttyp, Layer-Tiefe erhalten, Warnungen bei Öffnen und Import</li>
+<li>Touren aus Ansichten kombinieren; Schritttexte editierbar; Barrierefreiheit durchgehend</li>
+<li>Oberfläche durchgehend Deutsch und Englisch, Standardbundle liefert beide Sprachen</li>
+<li>Kamera: Standardansichten und Lagerungspositionen, Umgebung im Kontextmenü ausblenden</li>
+<li>Qualität: Lizenzinventar mit CI-Prüfung, SBOM-Entwurf und dokumentierte Prüfprotokolle</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.7.0.zip" length="237069758" type="application/octet-stream" sparkle:edSignature="cPEL4cPJLWs7SsU+4OWW6LGR+RHjTUQjtqw9S4f6eXyrBRplIQByLzPKxl3+JcJ5qbZxdjVLyMQr9NZw70NHAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-13.delta" sparkle:deltaFrom="13" length="1062550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0OXNLz1A9JJ12VHA/ZqpmW2yAH2zMaSWDTe7km/njXn+qI89U++18KCy6EX3UElr3LEypde6EMSie91jL/6AAw=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-11.delta" sparkle:deltaFrom="11" length="1170790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cWE8Xgt5bspfFy8TjjxvtTTuYcZ/x2kSOvwki+cmf2gpFS7x1rU/ly8NbMmJXqBJzSbk7E2QP/oK9PlAkWTsCg=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-9.delta" sparkle:deltaFrom="9" length="1178626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stYFnSPj2G6UUrnSXFsSM5BKLZeTEpQdqZdmstLLRkuTOeq5YxMVmdvlaAejeK3SzE4oJSpnBLuXlIyNAHdZBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Thu, 22 Oct 2026 23:30:18 +0200</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
@@ -17,7 +46,7 @@
 <li>Lernübungen mit gemeinsamen Seitenpaaren, Schnellbewertung und eigenen Synonymen</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver-0.6.0.zip" length="236195832" type="application/octet-stream" sparkle:edSignature="nWf8JHroRzLqXZdPqP8VaOOrruy8jo9Z2hf7FLg7T5qVoq6LfGd/QpRXA6sLU5Nm/tTGhrHuoAdDa3fKcDidAg=="/>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.6.0.zip" length="236195832" type="application/octet-stream" sparkle:edSignature="nWf8JHroRzLqXZdPqP8VaOOrruy8jo9Z2hf7FLg7T5qVoq6LfGd/QpRXA6sLU5Nm/tTGhrHuoAdDa3fKcDidAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver13-11.delta" sparkle:deltaFrom="11" length="375246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TXKnKjz9vpmdbEX31c97xm0td2JzQFHlzeldETMkVb63CG2hZSkJrZEp6HKZnOIGsb7m235djyHuV7ntp2/bBQ=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver13-9.delta" sparkle:deltaFrom="9" length="383598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a/lnRGBokVb4a48w4vu2NIDl0Tk3CG+LdQaCd8WyQQPRqnSCOo8IbiHaAR4zrYQ6RMlOP6DbMn9vZPdaf97ZDw=="/>
@@ -40,7 +69,7 @@
 <li>Neuerungen werden nach jedem Update angezeigt</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver-0.5.5.zip" length="235973607" type="application/octet-stream" sparkle:edSignature="oph2RYATPJP8BlwC+tUnWBMYjhYby2E1Vwl8nlvBah4ErxYVXGT9Py+3ueR6mxAXs0MT/xqWVSk2onMT5Y8LAw=="/>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.5.5.zip" length="235973607" type="application/octet-stream" sparkle:edSignature="oph2RYATPJP8BlwC+tUnWBMYjhYby2E1Vwl8nlvBah4ErxYVXGT9Py+3ueR6mxAXs0MT/xqWVSk2onMT5Y8LAw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.5.5/Kadaver11-9.delta" sparkle:deltaFrom="9" length="122366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3l3QUD7x9vuHo2S0cKchTDkS5s2nbHQ+RC+Q5hd1Nj+xD6APqtKCl9NxvHsb+yjrcadOQSxkHRYz+oqzorWLAw=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.5.5/Kadaver11-8.delta" sparkle:deltaFrom="8" length="152530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MWDAO0lKrToV7Be9xbBcSRIHgOhfWPLRDtoqNyG07Inc+nPJtfPWSLwBt0P4QkCGBuoBpUACrQKoCNWMnGYGBA=="/>
@@ -59,7 +88,7 @@
 <li>Kompaktes Neuerungen-Fenster beim ersten Start einer neuen Version, erneut erreichbar unter Hilfe → Was ist neu?.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver-0.5.0.zip" length="235960669" type="application/octet-stream" sparkle:edSignature="q3Sr6FCoRi5tGeenZtx6jaCgCcrG4h9JVMUyhQwhm3y7y6oAJDZEhjTPNaUrv5+H4thHwnAgbnXvy29WAx+ABw=="/>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.5.0.zip" length="235960669" type="application/octet-stream" sparkle:edSignature="q3Sr6FCoRi5tGeenZtx6jaCgCcrG4h9JVMUyhQwhm3y7y6oAJDZEhjTPNaUrv5+H4thHwnAgbnXvy29WAx+ABw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.5.0/Kadaver9-8.delta" sparkle:deltaFrom="8" length="113774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ufpem9lAY+OEoHd/mHlofr8+J49NVdBQQqstnIHUSrJTHJPooXmSr3ewiEZ47LHjTo5khviaOeVPYn94kT5pBA=="/>
             </sparkle:deltas>
@@ -72,7 +101,7 @@
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.6.0/Kadaver-0.4.0.zip" length="235935397" type="application/octet-stream" sparkle:edSignature="BTL2xRSXGAkJ/UzptuOFb7FmS0uarOl347cJaSrP7OaWtiiIiynyNziDKyWCxXrzhbp0UIjQnXZ9Swdo2YjgAA=="/>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.4.0.zip" length="235935397" type="application/octet-stream" sparkle:edSignature="BTL2xRSXGAkJ/UzptuOFb7FmS0uarOl347cJaSrP7OaWtiiIiynyNziDKyWCxXrzhbp0UIjQnXZ9Swdo2YjgAA=="/>
             <description><![CDATA[<h3>Kadaver 0.4.0</h3><ul>
 <li>Erste Version mit automatischen Updates</li>
 <li>Behobene Modellfehler (Regionen, Seiten, lateinische Namen) in beiden Atlanten</li>
