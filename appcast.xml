@@ -6,6 +6,7 @@
             <title>0.7.3</title>
             <pubDate>Fri, 30 Oct 2026 13:59:35 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>424</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -35,11 +36,11 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h3>Kadaver 0.7.2</h3><ul><li>Erste Ausgabe im Beta-Kanal: für Einstellungen → Updatekanal = Beta, Stable bleibt auf 0.7.1</li><li>Bugfix: Antworten, die der Lernstand nicht buchen kann, zählen nicht mehr in Runde und Trefferzähler</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.3/Kadaver-0.7.2.zip" length="237083404" type="application/octet-stream" sparkle:edSignature="yqZ1q6HEiRr4b+h42317M5p1vlU/XDes3pAKYyRj+KdZzRjweUf5x4OYjBK2HWyD4e95m6/c7F9MinQyKdoEDw=="/>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.2/Kadaver-0.7.2.zip" length="237083404" type="application/octet-stream" sparkle:edSignature="yqZ1q6HEiRr4b+h42317M5p1vlU/XDes3pAKYyRj+KdZzRjweUf5x4OYjBK2HWyD4e95m6/c7F9MinQyKdoEDw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.3/Kadaver347-304.delta" sparkle:deltaFrom="304" length="228066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zQDA9utl0pgYb/8/cI/MBXHE2yWQFWqL3tv1cMq3ToL+WCALgohDjeALDFGt4g0zsh2jySd9tH72JjRAo6WtCg=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.3/Kadaver347-292.delta" sparkle:deltaFrom="292" length="300262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YJ6N5XzxdViosxwVbUdT+6KZlBE+JE/Ri3XY860Fbtz5O2acS0maHo2AHvjZGcG88acpPBrokwlFIXRAxtYuDg=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.3/Kadaver347-13.delta" sparkle:deltaFrom="13" length="1077666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zNSKQV07lP1pdxNvb779hk2x8EZmTXhy4BbAJMdqUd3af9EHaZtYabBycMNV16Z6i8JzUSvjkc3AY3Dv4Wm6DA=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.2/Kadaver347-304.delta" sparkle:deltaFrom="304" length="228066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zQDA9utl0pgYb/8/cI/MBXHE2yWQFWqL3tv1cMq3ToL+WCALgohDjeALDFGt4g0zsh2jySd9tH72JjRAo6WtCg=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.2/Kadaver347-292.delta" sparkle:deltaFrom="292" length="300262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YJ6N5XzxdViosxwVbUdT+6KZlBE+JE/Ri3XY860Fbtz5O2acS0maHo2AHvjZGcG88acpPBrokwlFIXRAxtYuDg=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.2/Kadaver347-13.delta" sparkle:deltaFrom="13" length="1077666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zNSKQV07lP1pdxNvb779hk2x8EZmTXhy4BbAJMdqUd3af9EHaZtYabBycMNV16Z6i8JzUSvjkc3AY3Dv4Wm6DA=="/>
             </sparkle:deltas>
         </item>
         <item>
