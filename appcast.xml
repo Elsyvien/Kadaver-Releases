@@ -6,6 +6,7 @@
             <title>0.8.1</title>
             <pubDate>Thu, 05 Nov 2026 22:59:20 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>671</sparkle:version>
             <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
