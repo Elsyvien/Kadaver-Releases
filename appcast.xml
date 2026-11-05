@@ -3,8 +3,29 @@
     <channel>
         <title>Kadaver</title>
         <item>
+            <title>0.7.9</title>
+            <pubDate>Thu, 05 Nov 2026 02:30:02 +0100</pubDate>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/tag/v0.7.9</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>608</sparkle:version>
+            <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Kadaver 0.7.9 (Beta)</h3><ul>
+<li>Animierte 3D-Lerntouren mit 18 Vorlagen und eigenen Szenen</li>
+<li>Knochenpunkte in Benennen, Finden und Beschriften</li>
+<li>Funktionsquiz zur Innervation</li>
+<li>Anatomie-Hierarchie, Zeichnungen und erweiterte Ansichten</li>
+<li>Optionaler Anatomie-Assistent und lokale Referenzbildpakete</li>
+<li>Anki-Bildkarten für Lernlisten</li>
+<li>Bugfixes</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.9/Kadaver-0.7.9.zip" length="253964477" type="application/octet-stream" sparkle:edSignature="FUrES7pL+/ax04HFfcLVmxlj/Y1WGKt4HKjsKzv8ZU4Ah63OVP9W3h5JxS1W8KvkX7Tj8/v/gtP7726rjkW7DA=="/>
+        </item>
+        <item>
             <title>0.7.6</title>
-<sparkle:channel>beta</sparkle:channel>
+            <sparkle:channel>beta</sparkle:channel>
             <pubDate>Tue, 03 Nov 2026 20:38:32 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
             <sparkle:version>558</sparkle:version>
@@ -23,9 +44,9 @@
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.6/Kadaver558-347.delta" sparkle:deltaFrom="347" length="10049718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0evG6wNR+NygouFeB9LsXS88zIKqPtwlMtLYTvLpU6HJcEaH7CPSnsdB4I7iIYpeUWE7izzZoViCT5CQZufUAQ=="/>
             </sparkle:deltas>
         </item>
-<item>
+        <item>
             <title>0.7.5</title>
-        <sparkle:channel>beta</sparkle:channel>
+            <sparkle:channel>beta</sparkle:channel>
             <pubDate>Sat, 31 Oct 2026 15:04:54 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
             <sparkle:version>492</sparkle:version>
@@ -50,7 +71,7 @@
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.5/Kadaver492-304.delta" sparkle:deltaFrom="304" length="9776974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qeX1GrP23etkML6zIjT7mDjhwXrOvZJ4dNt8PIWhFici3oZb1KMGPDdMD/25OtdVpnVnr7iXLMo8B6vbeGsdAA=="/>
             </sparkle:deltas>
         </item>
-<item>
+        <item>
             <title>0.7.3</title>
             <pubDate>Fri, 30 Oct 2026 13:59:35 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
