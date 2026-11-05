@@ -5,13 +5,16 @@
         <item>
             <title>0.8.0</title>
             <pubDate>Thu, 05 Nov 2026 22:37:31 +0100</pubDate>
-            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/tag/v0.8.0</link>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>668</sparkle:version>
             <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>Kadaver 0.8.0</h3><ul>
-<li>- Beta-Release v0.8.0\n- 3D-Quiz und Lernmodi verbessert\n- Anki-Import/Export und Playback stabilisiert</li>
+            <description><![CDATA[<h3>Kadaver 0.8.0 (Beta)</h3><ul>
+<li>Beta-Release v0.8.0</li>
+<li>3D-Quiz und Lernmodi verbessert</li>
+<li>Anki-Import/Export und Playback stabilisiert</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.0/Kadaver-0.8.0.zip" length="259903477" type="application/octet-stream" sparkle:edSignature="C30k5GsKbxrRhj6j/PqjPYoR2uSiJXLrLKcoPyuvbFt78nY7g5WYRdTPsTpmuQrPwl1V0LmYbq+OE+TnImKVCw=="/>
