@@ -3,6 +3,28 @@
     <channel>
         <title>Kadaver</title>
         <item>
+            <title>0.8.6</title>
+            <pubDate>Sun, 08 Nov 2026 18:11:54 +0100</pubDate>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>746</sparkle:version>
+            <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Kadaver 0.8.6 (Beta)</h3>
+<p><strong>Beta-Version: eine Vorabversion zum Testen. Sie wird nur angeboten, wenn in den Einstellungen der Updatekanal Beta gewählt ist.</strong></p>
+<ul>
+<li>Lateinische Quiznamen korrigiert, Hüftbeugung am M. rectus femoris, gespiegelte Meshes mit Außenseite zur Kamera</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.6/Kadaver-0.8.6.zip" length="285245090" type="application/octet-stream" sparkle:edSignature="EA1+Uc9eqV5BTaEaQje337CL1d80UrciFDZCjviqFYzwl6DFUOTk41haGKXtpmIPRj0BFoIqj0fRl6ztLC2LAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.6/Kadaver746-736.delta" sparkle:deltaFrom="736" length="373634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+LG2bovJ4mCZHe9yxih+skGY8znqfPeSMgcvveOCmyICZFf4ABMAxNPCoAW9wW3KHBVoob0/av9Yy9YWSClFAg=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.6/Kadaver746-729.delta" sparkle:deltaFrom="729" length="443950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b0xwmXZ6drheFkJ8Br8nC9yj0Nasp3W8ZjWTyaVIcKhgbj6bw8JGBUujPZJ37Mrx2BelwhaO8nXl2w3r2X6aDA=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.6/Kadaver746-700.delta" sparkle:deltaFrom="700" length="22241774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GTAf5G5MwEO6dtnyylM6qUKKssxDAtp7Ww4zE3NqVoDZbb9ETO/DhCnashFcpCMENr63pE1C6bPz+qgkR/cKCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.5</title>
             <pubDate>Sat, 07 Nov 2026 15:04:59 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
