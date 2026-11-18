@@ -11,15 +11,15 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h3>Kadaver 0.9.3</h3>
 <ul>
-<li>- Systemübersicht: Die neue Seite Systeme (⌘8) zeigt jedes Körpersystem des Atlas als Karte mit Bild und Lernstand. Ein Klick öffnet das System über den ganzen Körper, das Kontextmenü startet Benennen, Finden oder Beschriften.</li>
-<li>- Saubere Seitenspalte: Listen in der rechten Spalte laufen beim Scrollen nicht mehr hinter die Symbole der Symbolleiste.</li>
-<li>- Detailstufen in 3D: Nephron, Lungenbläschen, Leberläppchen, Langerhans-Insel und Darmzotte sind als 3D-Modelle mit Lumina und Schnittflächen verfügbar. Benennen, Finden und Beschriften funktionieren direkt am Modell.</li>
-<li>- Studiolicht: Eine Beleuchtung, die der Kamera folgt, und weiche Schatten lassen Strukturen plastischer erscheinen. Markierungen behalten ihren Kontrast.</li>
-<li>- Erweiterter weiblicher Atlas: Rippen, Unterkiefer und Schädel ergänzen den weiblichen Atlas. Quizfilter, Seitenzuordnungen und Quellenangaben sind korrigiert.</li>
-<li>- Organe auf Deutsch finden: Die Suche findet Organe auch unter deutschen Namen wie Lunge, Niere oder Gallenblase. Acht zusätzliche Lernsets behandeln Plexus, anatomische Räume und Gefäßsysteme.</li>
-<li>- Überarbeitete Animationen: Acht zusätzliche Sequenzen sowie klarere Bewegungs- und Strömungspfeile ergänzen die Animationen. Blutfluss und Herzfüllung sind überarbeitet.</li>
-<li>- Englische Inhalte: Strukturbeschreibungen und Datenschutzerklärung sind jetzt auch auf Englisch verfügbar.</li>
-<li>- Zuverlässiger üben und importieren: Ausgeblendete Teile kehren in den Übungen der Detailstufen zurück, und Bildexporte erfassen keine verdeckte Ansicht mehr. Anki-Import, Referenzpakete und gespeicherte Listen behandeln fehlerhafte Daten robuster.</li>
+<li>Systemübersicht: Die neue Seite Systeme (⌘8) zeigt jedes Körpersystem des Atlas als Karte mit Bild und Lernstand. Ein Klick öffnet das System über den ganzen Körper, das Kontextmenü startet Benennen, Finden oder Beschriften.</li>
+<li>Saubere Seitenspalte: Listen in der rechten Spalte laufen beim Scrollen nicht mehr hinter die Symbole der Symbolleiste.</li>
+<li>Detailstufen in 3D: Nephron, Lungenbläschen, Leberläppchen, Langerhans-Insel und Darmzotte sind als 3D-Modelle mit Lumina und Schnittflächen verfügbar. Benennen, Finden und Beschriften funktionieren direkt am Modell.</li>
+<li>Studiolicht: Eine Beleuchtung, die der Kamera folgt, und weiche Schatten lassen Strukturen plastischer erscheinen. Markierungen behalten ihren Kontrast.</li>
+<li>Erweiterter weiblicher Atlas: Rippen, Unterkiefer und Schädel ergänzen den weiblichen Atlas. Quizfilter, Seitenzuordnungen und Quellenangaben sind korrigiert.</li>
+<li>Organe auf Deutsch finden: Die Suche findet Organe auch unter deutschen Namen wie Lunge, Niere oder Gallenblase. Acht zusätzliche Lernsets behandeln Plexus, anatomische Räume und Gefäßsysteme.</li>
+<li>Überarbeitete Animationen: Acht zusätzliche Sequenzen sowie klarere Bewegungs- und Strömungspfeile ergänzen die Animationen. Blutfluss und Herzfüllung sind überarbeitet.</li>
+<li>Englische Inhalte: Strukturbeschreibungen und Datenschutzerklärung sind jetzt auch auf Englisch verfügbar.</li>
+<li>Zuverlässiger üben und importieren: Ausgeblendete Teile kehren in den Übungen der Detailstufen zurück, und Bildexporte erfassen keine verdeckte Ansicht mehr. Anki-Import, Referenzpakete und gespeicherte Listen behandeln fehlerhafte Daten robuster.</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.3/Kadaver-0.9.3.zip" length="354693103" type="application/octet-stream" sparkle:edSignature="V7MtBhj2sBMSi9ZA6gXQDGkpw+oOh57HcEKy52A1JHwn4WB/D11Sbi4VQ2ijs5yLdja8elLa8OYjt+2RaX1MBg=="/>
