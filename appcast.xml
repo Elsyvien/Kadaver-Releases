@@ -2,6 +2,29 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>0.9.2</title>
+            <pubDate>Wed, 18 Nov 2026 01:51:48 +0100</pubDate>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>876</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Kadaver 0.9.2 (Beta)</h3>
+<p><strong>Beta-Version: eine Vorabversion zum Testen. Sie wird nur angeboten, wenn in den Einstellungen der Updatekanal Beta gewählt ist.</strong></p>
+<ul>
+<li>Listen der rechten Spalte laufen beim Scrollen nicht mehr hinter die Symbolleiste</li>
+<li>Systemübersicht: jedes Körpersystem des Atlas als Karte mit Bild und Lernstand (Systeme, ⌘8)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver-0.9.2.zip" length="357181871" type="application/octet-stream" sparkle:edSignature="sCndoMKQMd17TzvqvNRR7E9fKzj5Vq1rzWPCDf2BvsXj6m9iuib0mrpam7utTh9sA43QzfCPU73R3YB1dxYcBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-873.delta" sparkle:deltaFrom="873" length="260678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UuWoxQX9jm28dR7Ya/qvGTPRD1aRURu3WcxXRBoezUYdm0UkjAa+hpMjy9wysXQ10U3uBbRFkRHL0+rjYI1pBA=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-868.delta" sparkle:deltaFrom="868" length="1381650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6BIdbesJTaSTB9bYC5yHfPjOGZPWDMFkndiRzGCOyVdyktoBJ4buIQWBYWZExyd7+/0S0vm892+eQw1KRlE5Bw=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-847.delta" sparkle:deltaFrom="847" length="34551426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z7PxMujFYD6sqpRdk4N7W2i8xSioqr6dQJdGD/z+NNjqiDrIBWGU2QN0HW/YXHTApi5y0VxILZXpN+uhMxgwBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.1</title>
             <pubDate>Wed, 18 Nov 2026 01:37:59 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
