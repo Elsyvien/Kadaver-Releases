@@ -2,6 +2,34 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>0.9.3</title>
+            <pubDate>Wed, 18 Nov 2026 02:26:44 +0100</pubDate>
+            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
+            <sparkle:version>877</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Kadaver 0.9.3</h3>
+<ul>
+<li>- Systemübersicht: Die neue Seite Systeme (⌘8) zeigt jedes Körpersystem des Atlas als Karte mit Bild und Lernstand. Ein Klick öffnet das System über den ganzen Körper, das Kontextmenü startet Benennen, Finden oder Beschriften.</li>
+<li>- Saubere Seitenspalte: Listen in der rechten Spalte laufen beim Scrollen nicht mehr hinter die Symbole der Symbolleiste.</li>
+<li>- Detailstufen in 3D: Nephron, Lungenbläschen, Leberläppchen, Langerhans-Insel und Darmzotte sind als 3D-Modelle mit Lumina und Schnittflächen verfügbar. Benennen, Finden und Beschriften funktionieren direkt am Modell.</li>
+<li>- Studiolicht: Eine Beleuchtung, die der Kamera folgt, und weiche Schatten lassen Strukturen plastischer erscheinen. Markierungen behalten ihren Kontrast.</li>
+<li>- Erweiterter weiblicher Atlas: Rippen, Unterkiefer und Schädel ergänzen den weiblichen Atlas. Quizfilter, Seitenzuordnungen und Quellenangaben sind korrigiert.</li>
+<li>- Organe auf Deutsch finden: Die Suche findet Organe auch unter deutschen Namen wie Lunge, Niere oder Gallenblase. Acht zusätzliche Lernsets behandeln Plexus, anatomische Räume und Gefäßsysteme.</li>
+<li>- Überarbeitete Animationen: Acht zusätzliche Sequenzen sowie klarere Bewegungs- und Strömungspfeile ergänzen die Animationen. Blutfluss und Herzfüllung sind überarbeitet.</li>
+<li>- Englische Inhalte: Strukturbeschreibungen und Datenschutzerklärung sind jetzt auch auf Englisch verfügbar.</li>
+<li>- Zuverlässiger üben und importieren: Ausgeblendete Teile kehren in den Übungen der Detailstufen zurück, und Bildexporte erfassen keine verdeckte Ansicht mehr. Anki-Import, Referenzpakete und gespeicherte Listen behandeln fehlerhafte Daten robuster.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.3/Kadaver-0.9.3.zip" length="354693103" type="application/octet-stream" sparkle:edSignature="V7MtBhj2sBMSi9ZA6gXQDGkpw+oOh57HcEKy52A1JHwn4WB/D11Sbi4VQ2ijs5yLdja8elLa8OYjt+2RaX1MBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.3/Kadaver877-876.delta" sparkle:deltaFrom="876" length="4222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N9TZIWiO2Wtj32BSWgqsz+Rn9uY5DwWa4i/3mDQXrRxpM3C2UzPLLK8R23IrUcki+At3KcG3RVd1u00erGfPBg=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.3/Kadaver877-873.delta" sparkle:deltaFrom="873" length="260786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dMBl3Pl3vE4T2oHFLVaVmECWaePv+nkcY5oKVjuRgGjx/1O3OaUP85zDV64jqKurauJlCasqz1qrgGxaI0NgDw=="/>
+                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.3/Kadaver877-868.delta" sparkle:deltaFrom="868" length="1381634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MyebJPUbUGTUbvqD0EPCCgGBwePOXiykqUtC3JJzWrP+t8AeOufds49LOAYCN6o3j7OBewrOZ2w2HcVDTcjxCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.2</title>
             <pubDate>Wed, 18 Nov 2026 01:51:48 +0100</pubDate>
             <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
@@ -22,28 +50,6 @@
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-873.delta" sparkle:deltaFrom="873" length="260678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UuWoxQX9jm28dR7Ya/qvGTPRD1aRURu3WcxXRBoezUYdm0UkjAa+hpMjy9wysXQ10U3uBbRFkRHL0+rjYI1pBA=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-868.delta" sparkle:deltaFrom="868" length="1381650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6BIdbesJTaSTB9bYC5yHfPjOGZPWDMFkndiRzGCOyVdyktoBJ4buIQWBYWZExyd7+/0S0vm892+eQw1KRlE5Bw=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.2/Kadaver876-847.delta" sparkle:deltaFrom="847" length="34551426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z7PxMujFYD6sqpRdk4N7W2i8xSioqr6dQJdGD/z+NNjqiDrIBWGU2QN0HW/YXHTApi5y0VxILZXpN+uhMxgwBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.1</title>
-            <pubDate>Wed, 18 Nov 2026 01:37:59 +0100</pubDate>
-            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>873</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>Kadaver 0.9.1 (Beta)</h3>
-<p><strong>Beta-Version: eine Vorabversion zum Testen. Sie wird nur angeboten, wenn in den Einstellungen der Updatekanal Beta gewählt ist.</strong></p>
-<ul>
-<li>Systemübersicht: jedes Körpersystem des Atlas als Karte mit Bild und Lernstand (Systeme, ⌘8)</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.1/Kadaver-0.9.1.zip" length="357181143" type="application/octet-stream" sparkle:edSignature="oRiGayxOiH8gWzKcB/Fj5qF7wy+citjLNQjFQ7V0a7bXAs4mfwcAQ47BDdM/opXdJL0sPiTJLm/Xz04Gm8pdDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.1/Kadaver873-868.delta" sparkle:deltaFrom="868" length="1374854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="You9anWB1fTTubAYv2ZXrTRU0r52f3wPnd2L9EeGMBAfU88R6OJo2VIiA5j4FjfnAiB10XnOILfzLJ1B6umhAA=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.1/Kadaver873-847.delta" sparkle:deltaFrom="847" length="34533742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F9TshOOC8YXjD4PIZXATKgldM3NtSiB4D2YgjihJenP4VDRwQIuNsFVI67IUe4E4UKY67lQxLEECpKUixKc5CQ=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.1/Kadaver873-755.delta" sparkle:deltaFrom="755" length="55640474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uc726D/+23eQfXz5vjM4v1G+dIlXsZLPHPyki1i+B3mdQj1PsYbZMkjGGusrZXiWCRed6l2nAiw+0YY4E/CCBg=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -70,32 +76,6 @@
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.0/Kadaver868-847.delta" sparkle:deltaFrom="847" length="33781930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P6W8699xKD6mb4TzP2QdESMulJinemeCeAvaq3w/MNxYH1/xIm/16u0r8mXGcFuGiaON9aGgmiV0oPzSVgQACg=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.0/Kadaver868-755.delta" sparkle:deltaFrom="755" length="54899314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qLCEOzds+yPxC+6CSBHtuRI77RZcRQFWrka0PfKZRDE3TwzWUwEOXev37NqW9Z44P+YL1Hz8a0LS+0jRHao4Bg=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.9.0/Kadaver868-753.delta" sparkle:deltaFrom="753" length="54936610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uJTnWG7r9845fY5AA04e58MqoUxpVtFXcrMIupNMS/et769Xcgjf0+zqsjgFZbaGYGZR5723fgvrg9CpfcLZCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.10</title>
-            <pubDate>Sat, 14 Nov 2026 13:45:15 +0100</pubDate>
-            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>847</sparkle:version>
-            <sparkle:shortVersionString>0.8.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>Kadaver 0.8.10 (Beta)</h3>
-<p><strong>Beta-Version: eine Vorabversion zum Testen. Sie wird nur angeboten, wenn in den Einstellungen der Updatekanal Beta gewählt ist.</strong></p>
-<ul>
-<li>Weiblicher Atlas um Rippen, Unterkiefer und Schädel erweitert.</li>
-<li>Acht neue Lernsets und erweiterte Bewegungs- und Strömungsanimationen.</li>
-<li>Englische Strukturbeschreibungen und Datenschutzerklärung.</li>
-<li>Fehlerkorrekturen an Quizfiltern, Seitenzuordnungen, Anki-Import, Lösungssperren und Datenspeicherung.</li>
-<li>Klinische Lernfälle mit offenem fachlichem Prüfstatus bleiben ausschließlich im QA-Modus sichtbar.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.10/Kadaver-0.8.10.zip" length="313691329" type="application/octet-stream" sparkle:edSignature="BKQdLn6YdZbJLp48iWmK5mp39WlwsNn6OO8JPxL9AYiQzf9S/Jr74eCEPi34/vQ7OlTG+XBChjbjsvWnG/zKDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.10/Kadaver847-755.delta" sparkle:deltaFrom="755" length="24624230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gt4TCOWjMgmKKVyggh+PUOvzUu022EZfAj1a+IyfN0kQ1BbZQttjbzj6x8/z4+OFP8sVqhhHvP5imgCytGFCAg=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.10/Kadaver847-753.delta" sparkle:deltaFrom="753" length="24596026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NoG5dodAhO43JEGyEkdDTbBt7IFY8AkionNNwRoaJPV3SotZbq4AyA+THF8D3waH4VN4OXg/XLzVeimqU4TfCw=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.8.10/Kadaver847-752.delta" sparkle:deltaFrom="752" length="24626586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UjUfdCIOEf0Xmu5UoSwYKKKcRCneGo0j0C76QeCA+TQKjDTCHWKtY62ZThqWELMqECrwGn0Mx2UbCisHb2qiBg=="/>
             </sparkle:deltas>
         </item>
         <title>Kadaver</title>
@@ -179,35 +159,6 @@
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.1/Kadaver304-292.delta" sparkle:deltaFrom="292" length="271606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tEdDyb67Ws3+jN5Z+bcHSsnQvxtj3EuLM0VlP8GoGsBZNQWGDDjgV0YKmGzK2Ytg6zbpb0DibGEJ6G9RGESqCg=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.1/Kadaver304-13.delta" sparkle:deltaFrom="13" length="1073478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rvD203actb3GeN+5cw9vZq3MIT19ITjWKS54Nt/z9PsVuCPSj+HfD1Aq47akHjCFn7yMwxbSKuo6H3POptWQCA=="/>
                 <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.1/Kadaver304-11.delta" sparkle:deltaFrom="11" length="1191998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cH8GTiS3R0SIZqRYQKrhIX3B+eoblTx8PHpUuaSK8IV+axPVVHFlQA+Zib/Lh4LHPQP6Ep8xwuRqulb3rZf1Cg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Tue, 27 Oct 2026 20:20:51 +0100</pubDate>
-            <link>https://github.com/Elsyvien/Kadaver-Releases/releases/latest</link>
-            <sparkle:version>292</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>Kadaver 0.7.0</h3><ul>
-<li>Codename „Cortex“ (Beta) — Themenblock Lernen und Prüfung</li>
-<li>Prüfung: native Multiple-Choice-Auswahl beim Benennen mit eigener Formatwahl, Fragen ohne Wiederholung, Größe und Zeitlimit in den Einstellungen</li>
-<li>Prüfung ohne Maus bedienbar und über Neustarts fortsetzbar; Antworten werden dauerhaft gebucht und synchronisiert</li>
-<li>Prüfungsverlauf zeigt Ergebnisse und öffnet Lösungen im Atlas</li>
-<li>Wiederholungen im Kalenderplan mit „Nur fällige“, Tageslimit und Mitternachtsfortschritt</li>
-<li>Suche über den ganzen Atlas mit Rückschritt im Verlauf; Antwortsprache folgt der Frage; Vorlesen mit Systemstimme</li>
-<li>Gespeicherte Ansichten: versioniert, eigener Dokumenttyp, Layer-Tiefe erhalten, Warnungen bei Öffnen und Import</li>
-<li>Touren aus Ansichten kombinieren; Schritttexte editierbar; Barrierefreiheit durchgehend</li>
-<li>Oberfläche durchgehend Deutsch und Englisch, Standardbundle liefert beide Sprachen</li>
-<li>Kamera: Standardansichten und Lagerungspositionen, Umgebung im Kontextmenü ausblenden</li>
-<li>Qualität: Lizenzinventar mit CI-Prüfung, SBOM-Entwurf und dokumentierte Prüfprotokolle</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver-0.7.0.zip" length="237069758" type="application/octet-stream" sparkle:edSignature="cPEL4cPJLWs7SsU+4OWW6LGR+RHjTUQjtqw9S4f6eXyrBRplIQByLzPKxl3+JcJ5qbZxdjVLyMQr9NZw70NHAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-13.delta" sparkle:deltaFrom="13" length="1062550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0OXNLz1A9JJ12VHA/ZqpmW2yAH2zMaSWDTe7km/njXn+qI89U++18KCy6EX3UElr3LEypde6EMSie91jL/6AAw=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-11.delta" sparkle:deltaFrom="11" length="1170790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cWE8Xgt5bspfFy8TjjxvtTTuYcZ/x2kSOvwki+cmf2gpFS7x1rU/ly8NbMmJXqBJzSbk7E2QP/oK9PlAkWTsCg=="/>
-                <enclosure url="https://github.com/Elsyvien/Kadaver-Releases/releases/download/v0.7.0/Kadaver292-9.delta" sparkle:deltaFrom="9" length="1178626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="stYFnSPj2G6UUrnSXFsSM5BKLZeTEpQdqZdmstLLRkuTOeq5YxMVmdvlaAejeK3SzE4oJSpnBLuXlIyNAHdZBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
